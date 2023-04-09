@@ -2401,3 +2401,12 @@ body
 	font-family: 'Plus Jakarta Sans';
 	text-align: center;
 }
+.project_image
+{
+	vertical-align: top; 
+	width: 100%;
+}
+.project_showcase
+{
+	margin-bottom: 10%;
+}
